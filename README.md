@@ -14,7 +14,7 @@ Decisiones de código:
 - Luego cree el sistema de colisión de la pelota con los bordes superior e inferior para el rebote. Con lo aprendido de esta colisión cree ahora el sistema de colisión pelota-jugador. Este sistema tiene la complicasion de la sincronización de movimiento pero se pudo solucionar fácilmente. Además añadí un tipo de colisión especial con las esquinas de los rectángulos de cada jugador y configure un aumento de velocidad adecuado y limitado. También simultaneamiente añadí el sistema de puntuación.
 - Finalmente añadí un menú para mostrar la información de los controles.
 
-Resultado de unas partidas:
+Resultado:
 ![alt text](https://github.com/CarlosJavierMartin/Pong/blob/master/pong.gif?raw=true)
 
 Acciones realizadas:
