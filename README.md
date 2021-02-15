@@ -11,7 +11,7 @@ Descripción: Imitación del clásico juego pong. Para esto se ha usado el softw
 Decisiones de código:
 - Primero Cree dos clases, player y ball. Estas clases tienen lo necesario para representar a un jugador y una pelota respectivamente. 
 - Lo siguiente fue crear un sistema de movimiento aleatorio para la pelota y los movimientos de los jugadores. Tuve complicaciones para el movimiento simultaneo pero pude arreglarlo.
-- Luego cree el sistema de colisión de la pelota con los bordes superior e inferior para el rebote. Con lo aprendido de esta colisión cree ahora el sistema de colisión pelota-jugador. Este sistema tiene la complicasion de la sincronización de movimiento pero se pudo solucionar fácilmente. Además añadí un tipo de colisión especial con las esquinas de los rectángulos de cada jugador y configure un aumento de velocidad adecuado y limitado. También simultaneamiente añadí el sistema de puntuación.
+- Luego cree el sistema de colisión de la pelota con los bordes superior e inferior para el rebote. Con lo aprendido de esta colisión cree ahora el sistema de colisión pelota-jugador. Este sistema tiene la complicación de la sincronización de movimiento pero se pudo solucionar fácilmente. Además añadí un tipo de colisión especial con las esquinas de los rectángulos de cada jugador y configuré un aumento de velocidad adecuado y limitado. También simultaneamente añadí el sistema de puntuación.
 - Finalmente añadí un menú para mostrar la información de los controles.
 
 Resultado:
